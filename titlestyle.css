@@ -1,0 +1,83 @@
+.name{
+    text-align: center;
+}
+.like{
+    text-align: center;
+    font-style: italic;
+}
+.summary{
+    text-align: center;
+    color: white;
+    background-color: rgba(188, 243, 100, 0.178);
+    
+}
+.education{
+    text-align: center;
+    color: white;
+    background-color: rgba(188, 243, 100, 0.178);
+}
+
+.table,td,th{
+    text-align: center;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:15px;
+    border: 1px solid rgb(245, 229, 8);
+       
+    
+}
+.Image,img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.internship{
+    text-align: center;
+    color: white;
+    background-color: rgba(188, 243, 100, 0.178);
+}
+.ititle{
+    text-align: center;
+    color: white;
+}
+.project{
+    text-align: center;
+    color: white;
+    background-color: rgba(188, 243, 100, 0.178);
+}
+.ptitle1{
+    text-align: center;
+    color: white;
+}
+.ptitle2{
+    text-align: center;
+    color: white;
+}
+.certi{
+    text-align: center;
+    color: white;
+    background-color: rgba(188, 243, 100, 0.178);
+}
+.tech{
+    text-align: center;
+    color: white;
+    background-color: rgba(188, 243, 100, 0.178);
+}
+.ul{
+    list-style-position: inside;
+    text-align: center;
+}
+.de{
+    text-align: center;
+    
+}
+.r{
+    background-color: rgb(178, 248, 245);
+}
+.ram{
+    background-color: rgba(8, 164, 203, 0.991);
+}
+
+
